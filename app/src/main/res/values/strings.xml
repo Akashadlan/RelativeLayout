@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="Number">Number</string>
+    <string name="Minus">Minus</string>
+    <string name="Add">Add</string>
+    <string name="Multipling">multiping</string>
+    <string name="Divaid">Divaid</string>
+</resources>
