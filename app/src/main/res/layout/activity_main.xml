@@ -31,7 +31,7 @@
         android:text="@string/Minus" />
 
     <Button
-        android:id="@+id/btnAdd"
+        android:id="@+id/btnMultipling"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@id/tvNumber"
@@ -40,14 +40,14 @@
         android:layout_marginTop="30sp"
         android:layout_marginEnd="30sp"
         android:layout_marginBottom="30sp"
-        android:text="@string/Add" />
+        android:text="@string/Multipling" />
     <Button
-        android:id="@+id/btnMultipling"
+        android:id="@+id/btnAdd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_toRightOf="@+id/tvNumber"
-        android:text="@string/Multipling"
+        android:text="@string/Add"
         android:layout_margin="30dp" />
     <Button
         android:id="@+id/btnDivaid"
